@@ -1,8 +1,10 @@
 # company-names
 Generates a variety of company names
 
-Easy to use web app (which may or may not be offline depending on how pythonanywhere's free version works): 
-[Link!](http://foxislam.pythonanywhere.com/30)
+~~Easy to use web app (which may or may not be offline depending on how pythonanywhere's free version works): 
+[Link!](http://foxislam.pythonanywhere.com/30)~~
+
+The PythonAnywhere version is no longer online. I've remade this in javascript since that ended up being quicker than troubleshooting, you can try that out here: [Link!](https://simplethrowaway.000webhostapp.com/company-name-generator)
 
 # Examples:
 	Xiamen Decisions, Investments and Penalty
